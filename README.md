@@ -18,3 +18,7 @@ Since it runs entirely as a bookmarklet, there is **no installation, no browser 
 2. **Name It:** Set the name to `Utility.GUI`.
 3. **Paste the URL:** Paste your minified bookmarklet code directly into the **URL / Location** field.
 4. **Run it:** Navigate to any webpage and click your new `Utility.GUI` bookmark to launch the tool!
+
+
+
+## PREVIEW IMAGES
