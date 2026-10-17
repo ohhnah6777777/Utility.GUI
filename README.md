@@ -22,6 +22,6 @@ Since it runs entirely as a bookmarklet, there is **no installation, no browser 
 
 
 ## PREVIEW IMAGES
-<img width="1964" height="1200" alt="image" src="https://github.com/user-attachments/assets/a36e900a-d0b1-4e39-a624-e239725116ec" />
+<img width="1964" height="1000" alt="image" src="https://github.com/user-attachments/assets/a36e900a-d0b1-4e39-a624-e239725116ec" />
 
 
