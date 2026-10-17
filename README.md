@@ -13,15 +13,15 @@ Since it runs entirely as a bookmarklet, there is **no installation, no browser 
 * **100% Client-Side:** Fully secure and privacy-focused—your data never leaves your browser.
 
 ## 📦 How to Install & Use
-
-1. **Create a Bookmark:** Right-click your browser's Bookmarks Bar and select **Add Page** (or **New Bookmark**).
-2. **Name It:** Set the name to `Utility.GUI`.
-3. **Paste the URL:** Paste your minified bookmarklet code directly into the **URL / Location** field.
-4. **Run it:** Navigate to any webpage and click your new `Utility.GUI` bookmark to launch the tool!
+1. **Get files:** Go to main and get the file (if you want as bookmarklet go to “utility-gui-bookmarklet.txt)
+2. **Create a Bookmark:** Right-click your browser's Bookmarks Bar and select **Add Page** (or **New Bookmark**).
+3. **Name It:** Set the name to `Utility.GUI`.
+4. **Paste the URL:** Paste your minified bookmarklet code directly into the **URL / Location** field.
+5. **Run it:** Navigate to any webpage and click your new `Utility.GUI` bookmark to launch the tool!
 
 
 
 ## PREVIEW IMAGES
-<img width="1964" height="1000" alt="image" src="https://github.com/user-attachments/assets/a36e900a-d0b1-4e39-a624-e239725116ec" />
+<img width="1964" height="1200" alt="image" src="https://github.com/user-attachments/assets/a36e900a-d0b1-4e39-a624-e239725116ec" />
 
 
