@@ -23,4 +23,4 @@ Since it runs entirely as a bookmarklet, there is **no installation, no browser 
 
 ## PREVIEW IMAGES
 
-https://github.com/user-attachments/assets/54b64968-0326-431f-a421-99597e3c6ca9
+
